@@ -1,0 +1,15 @@
+ALINHAR — CONFIGURAÇÃO OBRIGATÓRIA ANTES DE PUBLICAR
+
+1) Substitua em TODOS os .html:
+   NOME LEGAL DO CONTROLADOR
+   EMAIL DE PRIVACIDADE
+   EMAIL DE SUPORTE
+
+2) Confirme que o nome legal é coerente com a entidade/desenvolvedor real.
+3) Abra politica-privacidade.html e exclusao-de-conta.html em aba anônima.
+4) Confirme que o e-mail de exclusão é monitorado e recebe mensagens.
+5) Não publique com os textos "NOME LEGAL..." ou "EMAIL DE..." ainda presentes.
+
+Ponto crítico da Play Store em 05/10/2026:
+- atualizações móveis precisam target API 36+, salvo extensão válida até 01/11/2026.
+- apps de saúde precisam de declaração específica e a página de requisitos fornecida indica conta de organização.
